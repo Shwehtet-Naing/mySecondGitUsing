@@ -5,3 +5,4 @@ console.log(sum);
 const myFunction = () => {
     alert("This is Shwe Htet Naing");
 }
+myFunction();
